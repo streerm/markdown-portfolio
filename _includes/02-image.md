@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Author as a Squirrel](https://marinelab.fsu.edu/archive/virtual-classroom/fast-facts/white-squirrels/)
