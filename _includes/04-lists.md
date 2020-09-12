@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+* Translation
+  * English
+  * Japanese
+  * German
+* Video Games :tada:
+  * Rocket League
+  * Final Fantasy
+  * Cuphead
