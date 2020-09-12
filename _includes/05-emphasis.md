@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Translator of **scientific, medical, and technical Japanese**  :sparkle:  
+流暢な会話は確実！( _本当なのかな～_ )
